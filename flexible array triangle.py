@@ -1,3 +1,5 @@
+# (C) Vyas 2021-
+
 while True:
     num = input("enter the depth of the right angle triangle you desire and type done if you want to stop: ");
     if num == "done":
